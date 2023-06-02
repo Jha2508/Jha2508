@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kshitiz Jha</h1>
-<h3 align="center">A passionate Web Developer developer from India</h3>
+<h3 align="center">A passionate Software Developer developer from India</h3>
 
 - 🔭 I’m currently working on **Web Development frameworks**
 
-- 🌱 I’m currently persuing **Electrical Engineering**
+- 🌱 I’ve completed my **Electrical Engineering** degree from **NIT PATNA**
 
-- 👯 I’m looking for **internship and FTE roles**
+- 👯 I’m looking for **FTE roles outside India**
 
-- 🤝 I’m looking for help with **Compiler design**
-
-- 💬 Ask me about **ReactJS,HTML,CSS,Javascript,Firebase**
+- 💬 Ask me about **ReactJS, HTML, CSS, Javascript, Firebase, Android, Kotlin, DSA, GoLang, REST APIs**
 
 - 📫 How to reach me **jhakshitiz911@gmail.com**
 
